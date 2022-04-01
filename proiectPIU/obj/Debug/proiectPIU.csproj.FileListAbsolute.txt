@@ -1,0 +1,6 @@
+D:\an2\sem2\piu\piu\proiect\proiectPIU\obj\Debug\proiectPIU.csprojAssemblyReference.cache
+D:\an2\sem2\piu\piu\proiect\proiectPIU\bin\Debug\proiectPIU.exe.config
+D:\an2\sem2\piu\piu\proiect\proiectPIU\bin\Debug\proiectPIU.exe
+D:\an2\sem2\piu\piu\proiect\proiectPIU\bin\Debug\proiectPIU.pdb
+D:\an2\sem2\piu\piu\proiect\proiectPIU\obj\Debug\proiectPIU.exe
+D:\an2\sem2\piu\piu\proiect\proiectPIU\obj\Debug\proiectPIU.pdb
